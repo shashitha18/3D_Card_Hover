@@ -14,7 +14,7 @@ In this project, we leverage the power of HTML and CSS to create an immersive ho
 
 Witness the magic unfold right before your eyes! ✨
 
-![3D Card Hover Effect](preview.gif)
+![3D Card Hover Effect](https://github.com/shashitha18/3D_Card_Hower/blob/main/3D%20Card%20Hower.gif)
 
 ## How to Use
 
